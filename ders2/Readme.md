@@ -31,27 +31,27 @@ Her GCP kullanımı bir proje altında yapılır. Projeler, kaynakları ve hizme
 
 ### Compute Engine
 
-Compute Engine, GCP'nin sanal makine hizmetidir. Sanal makineleri (VM) oluşturabilir, yapılandırabilir ve yönetebilirsiniz. Compute Engine kullanarak çeşitli uygulamaları barındırabilir ve çalıştırabilirsiniz. Detaylı bilgi için [Ders 3: Google Compute Engine](./ders3) dersine göz atabilirsiniz.
+Compute Engine, GCP'nin sanal makine hizmetidir. Sanal makineleri (VM) oluşturabilir, yapılandırabilir ve yönetebilirsiniz. Compute Engine kullanarak çeşitli uygulamaları barındırabilir ve çalıştırabilirsiniz. Detaylı bilgi için [Ders 3: Google Compute Engine](../ders3) dersine göz atabilirsiniz.
 
 ### Cloud Storage
 
-Cloud Storage, ölçeklenebilir ve güvenli dosya depolama hizmetidir. Dosyalarınızı depolamak ve yönetmek için kullanabilirsiniz. Cloud Storage, düşük maliyetli ve yüksek performanslı bir depolama çözümü sunar. Daha fazla bilgi için [Ders 4: Google Cloud Storage](./ders4) dersine bakabilirsiniz.
+Cloud Storage, ölçeklenebilir ve güvenli dosya depolama hizmetidir. Dosyalarınızı depolamak ve yönetmek için kullanabilirsiniz. Cloud Storage, düşük maliyetli ve yüksek performanslı bir depolama çözümü sunar. Daha fazla bilgi için [Ders 4: Google Cloud Storage](../ders4) dersine bakabilirsiniz.
 
 ### BigQuery
 
-BigQuery, büyük veri analizi için tam yönetimli, sunucusuz bir veri ambarıdır. Büyük veri kümelerini hızla analiz etmek ve sonuçlar elde etmek için kullanabilirsiniz. Detaylar için [Ders 7: Google BigQuery](./ders7) dersine göz atabilirsiniz.
+BigQuery, büyük veri analizi için tam yönetimli, sunucusuz bir veri ambarıdır. Büyük veri kümelerini hızla analiz etmek ve sonuçlar elde etmek için kullanabilirsiniz. Detaylar için [Ders 7: Google BigQuery](../ders7) dersine göz atabilirsiniz.
 
 ### App Engine
 
-App Engine, uygulamalarınızı tamamen yönetimli bir platformda çalıştırmanıza olanak tanır. Geliştiriciler, altyapı yönetimiyle uğraşmadan uygulamalarını dağıtabilir ve ölçeklendirebilir. Daha fazla bilgi için [Ders 5: Google App Engine](./ders5) dersine bakabilirsiniz.
+App Engine, uygulamalarınızı tamamen yönetimli bir platformda çalıştırmanıza olanak tanır. Geliştiriciler, altyapı yönetimiyle uğraşmadan uygulamalarını dağıtabilir ve ölçeklendirebilir. Daha fazla bilgi için [Ders 5: Google App Engine](../ders5) dersine bakabilirsiniz.
 
 ### Cloud Functions
 
-Cloud Functions, olay bazlı sunucusuz bilgi işlem hizmetidir. Küçük ve tek amaçlı işlevleri çalıştırmanızı sağlar. Daha fazla bilgi için [Ders 6: Google Cloud Functions](./ders6) dersine göz atabilirsiniz.
+Cloud Functions, olay bazlı sunucusuz bilgi işlem hizmetidir. Küçük ve tek amaçlı işlevleri çalıştırmanızı sağlar. Daha fazla bilgi için [Ders 6: Google Cloud Functions](../ders6) dersine göz atabilirsiniz.
 
 ### Pub/Sub
 
-Pub/Sub, mesaj tabanlı asenkron iletişim hizmetidir. Verileri yaymanızı ve abone olmanızı sağlar. Detaylar için [Ders 8: Google Cloud Pub/Sub](./ders8) dersine bakabilirsiniz.
+Pub/Sub, mesaj tabanlı asenkron iletişim hizmetidir. Verileri yaymanızı ve abone olmanızı sağlar. Detaylar için [Ders 8: Google Cloud Pub/Sub](../ders8) dersine bakabilirsiniz.
 
 Bu derste, GCP konsolunu ve temel servisleri tanıdınız. Bir sonraki derste, Google Compute Engine'i daha ayrıntılı olarak inceleyeceğiz.
 
